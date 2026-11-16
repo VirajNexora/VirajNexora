@@ -74,3 +74,23 @@ I'm a Computer Engineering student passionate about building innovative technolo
 <p align="center">
   <b>🚀 Keep Learning | Keep Building | Keep Growing</b>
 </p>
+---
+
+## 🚀 My Projects
+
+### 🏠 SmartHomeX AI
+Smart home automation project focused on intelligent control and safety.
+- Website: https://smarthomex-ai.vercel.app/
+- Technologies: ESP32, IoT, Arduino
+
+### 🛡️ GHAR-SHIELD AI
+Smart home safety and monitoring system.
+- Technologies: ESP32, Sensors, IoT
+
+---
+
+## 🎯 My Developer Goals
+- Build real-world engineering projects
+- Learn AI and Cybersecurity
+- Improve C and Python programming
+- Contribute to Open Source
