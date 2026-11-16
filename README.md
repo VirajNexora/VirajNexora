@@ -40,3 +40,14 @@ I'm a Computer Engineering student passionate about building innovative technolo
 ---
 
 ⭐ Learning Every Day. Building Every Day.
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirajNexora&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajNexora&layout=compact&theme=tokyonight)
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=VirajNexora&theme=tokyonight)
