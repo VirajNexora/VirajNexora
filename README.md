@@ -51,3 +51,26 @@ I'm a Computer Engineering student passionate about building innovative technolo
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=VirajNexora&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/VirajNexora">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://smarthomex-ai.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+## 📈 GitHub Activity Graph
+
+[![Viraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VirajNexora&theme=tokyo-night)](https://github.com/VirajNexora)
+
+---
+
+<p align="center">
+  <b>🚀 Keep Learning | Keep Building | Keep Growing</b>
+</p>
